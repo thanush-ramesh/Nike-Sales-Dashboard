@@ -1,6 +1,8 @@
 # Nike-Sales-Dashboard
 
-This interactive dashboard provides a comprehensive overview of Nike's sales performance. Key features include:
+This interactive dashboard provides a comprehensive overview of Nike's sales performance. 
+
+Key features include:
 
     Retailer Wise Total Sales: A bar chart displaying sales figures across major retailers.
     Units Sold Product Wise: Breakdown of product-wise unit sales.
